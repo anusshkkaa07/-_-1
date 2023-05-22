@@ -1,0 +1,167 @@
+
+body{
+    background-color:rgba(10, 69, 36, 0.762);
+  
+  }
+
+
+.bg1 img{
+    position: absolute;
+    opacity: 95%;
+   margin-top: 0px;
+    width: 1520px;
+    height: 700px;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+}
+
+
+
+.bg1 h1{
+    position: absolute;
+    font-size: 80px;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    top: 0px;
+    left: 670px;
+    border-radius: 15%;
+  background-color: rgba(129, 163, 96, 0.827);
+    text-shadow: 3.7px 3.7px rgba(59, 58, 58, 0.552);
+
+  
+    
+
+
+}
+
+.bg1 h3{
+  position: absolute;
+  font-size: 50px;
+  color: white;
+  font-family:'Times New Roman', Times, serif;
+  top: 70px;
+  left: 660px;
+  margin-top: 80px;
+  border-radius: 15%;
+  background-color:rgba(60, 54, 48, 0.84) ;
+
+  
+}
+
+
+
+  .form{
+    margin-left: 30px;
+    display: block;
+    font-size: 30px;
+    width: 30%;
+    padding: 12px 20px;
+    position: relative;
+    color: azure;
+    top: 150px;
+    border: 8px ;
+    border-color: black;
+    border-style: groove;
+    background-color: rgba(23, 62, 49, 0.771);
+    
+    
+
+
+  }
+
+  #name{
+    border: 3px;
+    border-color:rgb(230, 236, 230);
+    border-style: solid;
+    border-radius: 5px;
+    width: 400px;
+    height: 15px;
+    padding: 10px;
+    background-color: antiquewhite;
+  }
+
+  #add{
+    border: 3px;
+    border-color: rgb(230, 236, 230);
+    border-style: solid;
+    border-radius: 5px;
+    width: 400px;
+    height: 15px;
+    padding: 10px;
+    background-color: antiquewhite;
+  }
+
+  #pnum{
+    border: 3px;
+    border-color: rgb(230, 236, 230);
+    border-style: solid;
+    border-radius: 5px;
+    width: 400px;
+    height: 15px;
+    padding: 10px;
+    background-color: antiquewhite;
+  }
+
+ 
+  
+  #date{
+    border: 3px;
+    border-color: rgb(230, 236, 230);
+    border-style: solid;
+    border-radius: 5px;
+    width: 400px;
+    height: 15px;
+    padding: 10px;
+    background-color: antiquewhite;
+
+  }
+
+  #idproof{
+   
+      border: 3px;
+      border-color: rgb(230, 236, 230);
+      border-style: solid;
+      border-radius: 5px;
+      width: 400px;
+      height: 15px;
+      padding: 10px;
+      background-color: antiquewhite;
+      color: black;
+  }
+
+  #button{
+    background-color:rgba(107, 71, 83, 0.859);
+    font-size: x-large;
+    color: rgb(240, 231, 231);
+    margin-left: 150px;
+    margin-top: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    width: 150px;
+    height: auto;
+  }
+
+.eventlist{
+  font-size: 30px;
+  margin-left: 750px;
+  color: rgb(49, 3, 70);
+  position: relative;
+  top: -350px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  margin-bottom: 0;
+  
+  
+}
+
+.eventlist p{
+  font-size: 35px;
+  font-weight: bolder;
+  color: rgb(17, 16, 16);
+  line-height: 3px;
+  top: 25px;
+}
